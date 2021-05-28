@@ -61,6 +61,14 @@ It's useful to mention that this will be a classification model that will determ
 
 By characterizing and differentiating hate crimes by neighbourhoods, these maps will allow first responders to allocate the appropriate resources to each neighbourhood. Finally, since the information will be shared by users in real time, my hypothesis is that Hate Crime Maps will shorten the first responders’ reaction time.
 
+## FINAL DELIVERABLES
+1. [Google Sheet](https://docs.google.com/spreadsheets/d/1xgUaUFrYza1ZxL4bKAzrVbhHiHSxZJBO2TWrZAxdAAo/edit?usp=sharing)
+2. Tableau Dashboards
+- [Hate Crime Maps - Main Components (2019-2021)](https://public.tableau.com/views/HateCrimeMaps-MainComponents/Hate_Crime_Maps_Components?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Hate Crime Maps - Offence Type (2019-2021)](https://public.tableau.com/views/HateCrimeMaps-OffenceType/Hate_Crime_Maps_Offence?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Precinct Profile - Hate Crime Complaints vs Arrests (2019-2021)](https://public.tableau.com/views/HateCrimePrecinctProfile-ComplaintsvsArrests/PP_complaints_arrests?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Precinct Profile - Hate Crime  Arrests (2017-2019)](https://public.tableau.com/views/HateCrimePrecinctProfile-Arrests/PP_arrests?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+
 ## COMMUNICATION
 
 A slide deck is included in this repo. 
@@ -78,11 +86,3 @@ In addition, see below the four Tableau dashboards I have created as part of thi
 
 ### 4. Precinct Profile | Hate Crime Arrests (2017-2019)
 ![image](https://user-images.githubusercontent.com/68084582/119904228-017cab80-bf18-11eb-9c37-a698ae856761.png)
-
-
-
-
-
-
-
-
