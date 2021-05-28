@@ -79,7 +79,7 @@ In addition, see below the four Tableau dashboards I have created as part of thi
 ![image](https://user-images.githubusercontent.com/68084582/119904308-25d88800-bf18-11eb-8b55-d4b534d5a9ed.png)
 
 ### 2. Hate Crime Maps | Main Components (2019-2021)
-![image](https://user-images.githubusercontent.com/68084582/119904341-34bf3a80-bf18-11eb-89e3-95ace5afcd37.png)
+![image](https://user-images.githubusercontent.com/68084582/119911218-da79a600-bf26-11eb-9d52-67429355e005.png)
 
 ### 3. Precinct Profile | Hate Crime Complaints vs Arrests (2019-2021)
 ![image](https://user-images.githubusercontent.com/68084582/119904164-e447dd00-bf17-11eb-8ee7-490dd22c58fc.png)
