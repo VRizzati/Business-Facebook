@@ -1,7 +1,4 @@
 # HATE CRIME MAPS BY FACEBOOK DATA FOR GOOD
-Valentina Rizzati <br/>
-May 28, 2021 <br/>
-Metis: Business Fundamentals <br/>
 
 ## ABSTRACT
 The year 2020, amongst orther things, was also a year of general awakening to the deeply problematic issues impairing the social fabric of the United States. One of the most prominent of these issues is hate - hate against different races, sexual orientations, genders, religions or other grounds.
